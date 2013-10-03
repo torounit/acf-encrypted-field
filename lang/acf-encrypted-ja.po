@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Fields: Encrypted Field\n"
+"POT-Creation-Date: 2013-10-03 17:01+0900\n"
+"PO-Revision-Date: 2013-10-03 17:02+0900\n"
+"Last-Translator: \n"
+"Language-Team: Toro_Unit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: acf-encrypted\n"
+
+#: acf-encrypted/encrypted-v4.php:13
+msgid "encrypted text"
+msgstr "暗号化テキスト"
+
+#: acf-encrypted/encrypted-v4.php:14
+msgid "Basic"
+msgstr ""
+
+#: acf-encrypted/encrypted-v4.php:39
+msgid "Type"
+msgstr ""
+
+#: acf-encrypted/encrypted-v4.php:49
+msgid "Text"
+msgstr ""
+
+#: acf-encrypted/encrypted-v4.php:50
+msgid "Password"
+msgstr ""
+
+#: acf-encrypted/encrypted-v4.php:60
+msgid "Key Strings"
+msgstr "キー文字列"
