@@ -83,7 +83,7 @@ class acf_field_encrypted extends acf_field
 			$key = self::get_post_key($post_id).$field['key_string'];
 			$value = Encryption::decrypt( $value ,$key ,$post_id );
 		}
-		$value = array_shift(explode("++",$value));
+		$value = mb_substr( $value, 0, mb_strlen($value)-10 );
 		return $value;
 	}
 
